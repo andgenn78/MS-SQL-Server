@@ -1,0 +1,5 @@
+D:\otus\mssql\CLR\ClrDemo\ClrDemo\bin\Debug\ClrDemo.dacpac
+D:\otus\mssql\CLR\ClrDemo\ClrDemo\obj\Debug\ClrDemo.dll
+D:\otus\mssql\CLR\ClrDemo\ClrDemo\obj\Debug\ClrDemo.pdb
+D:\otus\mssql\CLR\ClrDemo\ClrDemo\bin\Debug\ClrDemo.dll
+D:\otus\mssql\CLR\ClrDemo\ClrDemo\bin\Debug\ClrDemo.pdb

@@ -1,0 +1,5 @@
+D:\otus\mssql\CLR\ClrDemo\Simple\bin\Debug\Simple.dll
+D:\otus\mssql\CLR\ClrDemo\Simple\bin\Debug\Simple.pdb
+D:\otus\mssql\CLR\ClrDemo\Simple\obj\Debug\Simple.csproj.CoreCompileInputs.cache
+D:\otus\mssql\CLR\ClrDemo\Simple\obj\Debug\Simple.dll
+D:\otus\mssql\CLR\ClrDemo\Simple\obj\Debug\Simple.pdb
